@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { Chrono} from 'react-chrono'
 
-function App() {
+const Home = () => {
+  const items = [{
+    title: "May 1940",
+    cardTitle: "Dunkirk",
+    cardSubtitle:"Men of the British Expeditionary Force (BEF) wade out to..",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "http://someurl/image.jpg"
+      }
+    }
+  }];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ width: "500px", height: "400px" }}>
+      <Chrono items={items} />
     </div>
-  );
+  )
 }
 
-export default App;
+export default Home
