@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inspire-lts/jpy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/inspire-lts/jpy/static/js/main.965bba80.chunk.js",
+    "main.js.map": "/inspire-lts/jpy/static/js/main.965bba80.chunk.js.map",
+    "runtime-main.js": "/inspire-lts/jpy/static/js/runtime-main.e80a7eff.js",
+    "runtime-main.js.map": "/inspire-lts/jpy/static/js/runtime-main.e80a7eff.js.map",
+    "static/js/2.2456c45e.chunk.js": "/inspire-lts/jpy/static/js/2.2456c45e.chunk.js",
+    "static/js/2.2456c45e.chunk.js.map": "/inspire-lts/jpy/static/js/2.2456c45e.chunk.js.map",
+    "static/js/3.6096edb1.chunk.js": "/inspire-lts/jpy/static/js/3.6096edb1.chunk.js",
+    "static/js/3.6096edb1.chunk.js.map": "/inspire-lts/jpy/static/js/3.6096edb1.chunk.js.map",
+    "index.html": "/inspire-lts/jpy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/inspire-lts/jpy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2456c45e.chunk.js.LICENSE.txt": "/inspire-lts/jpy/static/js/2.2456c45e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/inspire-lts/jpy/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e80a7eff.js",
+    "static/js/2.2456c45e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.965bba80.chunk.js"
+  ]
+}
