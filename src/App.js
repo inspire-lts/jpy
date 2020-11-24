@@ -35,14 +35,30 @@ const Home = () => {
       }
     }
   }, {
-    title: "别跑",
+    title: "阳光正好",
     media: {
-      tyoe: "IMAGE",
+      type: "IMAGE",
       source: {
-        url: "https://gitee.com/new_lts/MyImages/raw/master/img/4.jpg"
+        url: "https://gitee.com/new_lts/MyImages/raw/master/img/20201124144013.png"
       }
     }
-  } ];
+  },{
+    title: "想有个家",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "https://gitee.com/new_lts/MyImages/raw/master/img/20201124144156.png"
+      }
+    }
+  },{
+    title: "别跑",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "https://gitee.com/new_lts/MyImages/raw/master/img/20201124143223.png"
+      }
+    }
+  }];
 
   return (
     <div>
