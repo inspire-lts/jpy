@@ -1,0 +1,32 @@
+
+#heart {
+    position: relative;
+}
+
+.item {
+    position: absolute;
+}
+
+.img-container {
+    display: flex;
+    
+}
+
+.JPY {
+    height: 15%;
+    width: 15%;
+    margin: 5% 5%;
+    border-radius: 25px;
+    
+}
+
+.LTS {
+    height: 15%;
+    width: 15%;
+    border-radius: 25px;
+    margin: 5% 5%;
+}
+
+.first {
+    margin: 0 25%;
+}
